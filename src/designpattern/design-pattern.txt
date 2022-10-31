@@ -2,15 +2,15 @@ Design Pattern List:
     1. Creational Patterns:
     ========================
         a. Abstract Factory
-        b. Builder
-        c. Factory Method
+        b. Builder - 4
+        c. Factory Method - 3
         d. Prototype (LI)
-        e. Singleton
+        e. Singleton - 6
 
 
  2. Structural Patterns:
 ========================
-        f. Adapter
+        f. Adapter - 5
         g.
 
 
@@ -18,5 +18,7 @@ Design Pattern List:
 ========================
         h. Command
         i. Iterator
-        j. Observer
-        k. Strategy
+        j. Observer - 1
+        k. Strategy -2
+        
+        Extra: Singleton
