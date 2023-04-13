@@ -11,7 +11,8 @@ Design Pattern List:
  2. Structural Patterns:
 ========================
         f. Adapter - 5
-        g.
+        g. Composit
+        h. Decorator
 
 
  3. Behavioral Patterns:
